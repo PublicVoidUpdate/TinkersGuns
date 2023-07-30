@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tinkersguns",
+  "name": "Tinker's Guns",
+  "description": "You vaguely hear a bald eagle screeching and some innocent kid accidentally shooting out his eye",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/tinkersguns/logo.png",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PublicVoidStart"],
+  "credits": "",
+  "screenshots": [],
+  "dependencies": ["tconstruct"]
+}
+]

@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "tinkersguns:block_gunmetal"
+    },
+	"variants": {
+        "normal": { "model": "tinkersguns:block_gunmetal" },
+		"inventory": { "model": "tinkersguns:block_gunmetal" }
+    }
+}
