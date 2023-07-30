@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "tinkersguns:block_gunmetal"
+		}
+	],
+	"result": {
+		"item": "tinkersguns:ingot_gunmetal",
+		"count": 9
+	}
+}

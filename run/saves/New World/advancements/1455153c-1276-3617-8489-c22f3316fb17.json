@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2023-07-28 01:04:33 -0600",
+      "frozen_river": "2023-07-28 01:05:14 -0600"
+    },
+    "done": false
+  }
+}

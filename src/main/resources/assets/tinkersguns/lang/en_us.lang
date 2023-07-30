@@ -1,0 +1,6 @@
+ # Items
+item.ingot_gunmetal.name=Gunmetal Ingot
+
+# Blocks
+tile.block_gunmetal.name=Gunmetal Block
+itemGroup.tinkersguns=Tinker's Guns Materials

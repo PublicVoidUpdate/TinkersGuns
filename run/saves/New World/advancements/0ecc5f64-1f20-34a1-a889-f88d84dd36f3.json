@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-28 01:38:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2023-07-28 01:38:24 -0600",
+      "frozen_river": "2023-07-28 01:38:09 -0600"
+    },
+    "done": false
+  }
+}

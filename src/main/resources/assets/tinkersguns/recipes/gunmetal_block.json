@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"iii",
+		"iii",
+		"iii"
+	],
+	"key": {
+		"i": {
+			"item": "tinkersguns:ingot_gunmetal"
+		}
+	},
+	"result": {
+		"item": "tinkersguns:block_gunmetal"
+	}
+}
